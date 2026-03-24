@@ -26,5 +26,4 @@ The **Credit Card Fraud Detection System** is a Machine Learning-based project d
 - Precision  
 - Recall  
 - F1-score  
-
 - Fraud prediction system  
